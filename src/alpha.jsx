@@ -5,7 +5,7 @@ function Alpha() {
   return (
     <>
         <div>
-            <a src="beta.jsx">Dominic Maynard</a>
+            <a href="beta.jsx">Dominic Maynard</a>
         </div>
     </>
   )
