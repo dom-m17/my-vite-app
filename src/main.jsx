@@ -4,6 +4,8 @@ import App from './App.jsx'
 import './index.css'
 import Alpha from './alpha.jsx'
 
+// New comment 
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
